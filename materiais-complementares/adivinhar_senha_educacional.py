@@ -17,6 +17,6 @@ def adivinhar_senha_educacional(senha_alvo):
     print("\nSenha não encontrada neste conjunto de caracteres e comprimento.")
     return False
 
-# --- Exemplo de uso (troque 'abc' pela senha que você quer que o código "encontre") ---
+# --- Exemplo de uso (troque 'mew' pela senha que você quer que o código "encontre") ---
 senha_para_tentar = "mew" # Mude esta senha para experimentar! Tente senhas curtas.
 adivinhar_senha_educacional(senha_para_tentar)
